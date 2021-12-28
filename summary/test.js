@@ -1,0 +1,1 @@
+var reply = confirm("정말 취소하겠습니까?")
