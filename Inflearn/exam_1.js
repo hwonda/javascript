@@ -1,8 +1,8 @@
-parseInt('3.15') /*Int로 바꾸는 숫자타입*/
-Number('3월') /*NaN*/
+parseInt('3.15') //Int로 바꾸는 숫자타입
+Number('3월') //NaN
 
-'123456789'.substr(0,2) /*  */
-'123456789'.substring(0,2) /*  */
+'123456789'.substr(0,2)
+'123456789'.substring(0,2)
 
 /*
 int 와 float 연산 가능
